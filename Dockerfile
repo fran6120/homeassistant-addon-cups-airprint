@@ -30,7 +30,7 @@ RUN apt update \
         printer-driver-foo2zjs \
         printer-driver-hpcups \
         printer-driver-escpr \
-        cups-pdf \
+        printer-driver-cups-pdf \
         gnupg2 \
         lsb-release \
         nano \
