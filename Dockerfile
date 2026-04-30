@@ -24,7 +24,9 @@ RUN apt update \
         openprinting-ppds \
         hpijs-ppds \
         hp-ppd  \
+        sane-utils \
         hplip \
+        libsane-hpaio \
         printer-driver-foo2zjs \
         printer-driver-hpcups \
         printer-driver-escpr \
